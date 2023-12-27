@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358790777310",
+    "project_id": "universal-app-cliente",
+    "storage_bucket": "universal-app-cliente.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358790777310:android:c327346579d678b6b8754f",
+        "android_client_info": {
+          "package_name": "com.agora.app_universal_cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358790777310-9po6b5c1bej8rto6m0cui49878bf2u1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCBCw1ldLHCqfFRXz8MbW78LaBZVr_vnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358790777310-9po6b5c1bej8rto6m0cui49878bf2u1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

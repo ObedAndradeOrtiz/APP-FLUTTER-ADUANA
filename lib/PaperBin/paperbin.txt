@@ -1,0 +1,33 @@
+// DASHBOARD MAIN
+
+// ignore: non_constant_identifier_names
+// Widget profileCard() {
+//   return Container(
+//     padding: const EdgeInsets.symmetric(
+//       horizontal: 0,
+//       vertical: 0,
+//     ),
+//     decoration: BoxDecoration(
+//       color: secondaryColor,
+//       borderRadius: const BorderRadius.all(Radius.circular(10)),
+//       border: Border.all(color: Colors.white10),
+//     ),
+//     child: Row(
+//       children: [
+//         //const Icon(Icons.person),
+//         DropdownButton(
+//             items: lista
+//                 .map((String a) => DropdownMenuItem(
+//                     value: a,
+//                     child: Row(children: [
+//                       Text(a),
+//                       IconButton(
+//                           onPressed: () => {},
+//                           icon: const Icon(Icons.person, color: Colors.black)),
+//                     ])))
+//                 .toList(),
+//             onChanged: (value) => {}),
+//       ],
+//     ),
+//   );
+// }
